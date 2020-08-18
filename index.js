@@ -544,6 +544,7 @@ export default class ModalBox extends React.PureComponent {
           'portrait',
           'portrait-upside-down'
         ]}
+        statusBarTranslucent
         transparent
         visible={visible}
         hardwareAccelerated={true}>
