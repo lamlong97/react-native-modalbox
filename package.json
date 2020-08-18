@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maxs15/react-native-modalbox.git"
+    "url": "git+https://github.com/lamlong97/react-native-modalbox.git"
   },
   "keywords": [
     "react-component",
@@ -16,18 +16,16 @@
     "ios",
     "android",
     "modal",
-    "box",
-    "modalbox",
-    "window",
-    "swipe"
+    "modalbox"
   ],
-  "author": "Maxime Mezrahi",
+  "author": "LamLong",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/maxs15/react-native-modalbox/issues"
+    "url": "https://github.com/lamlong97/react-native-modalbox/issues"
   },
-  "homepage": "https://github.com/maxs15/react-native-modalbox#readme",
+  "homepage": "https://github.com/lamlong97/react-native-modalbox#readme",
   "dependencies": {
     "prop-types": "^15.5.10"
-  }
+  },
+  "devDependencies": {}
 }
