@@ -1,6 +1,6 @@
 {
   "name": "xboss-modalbox",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "A <Modal/> component for react-native",
   "main": "index.js",
   "scripts": {
@@ -26,6 +26,5 @@
   "homepage": "https://github.com/lamlong97/react-native-modalbox#readme",
   "dependencies": {
     "prop-types": "^15.5.10"
-  },
-  "devDependencies": {}
+  }
 }
